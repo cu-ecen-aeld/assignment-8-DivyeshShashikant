@@ -1,0 +1,7 @@
+
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+	  Custom ldd package to be added for assignment 7 part 2
+	  supports building and installing the misc-modules and scull components in the rootfs
+	  
