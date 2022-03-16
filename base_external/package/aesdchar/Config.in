@@ -1,0 +1,6 @@
+config BR2_PACKAGE_AESDCHAR
+	bool "aesdchar"
+	help
+	  Custom ldd package to be added for assignment 8
+	  supports building and installing the aesdchar device in the rootfs
+	  
